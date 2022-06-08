@@ -2,3 +2,4 @@ Chapter 1
  - We meet some chars
  - We go to the store
  - We go to the park
+ - We go to walmart
