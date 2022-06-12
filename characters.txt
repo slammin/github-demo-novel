@@ -1,9 +1,0 @@
-Char1 - Main Guy
-
-Char2 - Main Girl
-
-Char3 - UPS Driver
-
-Char4 - Grocery Woman
-
-char5 - Fireman
